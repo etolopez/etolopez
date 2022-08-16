@@ -3,7 +3,7 @@
 
 ![Black Modern Blogger YouTube Channel Art (1)](https://user-images.githubusercontent.com/83386931/184984116-9420c42c-d3fb-4d2c-a210-2c55874b2bf7.png)
 
-Skills:  REACT / JS / HTML / CSS / PYTHON / FLUX / SQLAlquemy / Heroku / Figma / Adobe Creative Suite / Web3
+Skills:  REACT / JS / HTML / CSS / PYTHON / FLUX / SQLAlquemy / Heroku / Figma / Adobe Creative Suite / Web3 / Making Quality coffee
 
 - 🔭 I’m currently working on an app that connects dogs to dog walkers locally. 
 - 🌱 I’m currently learning more about Python and it's components. 
