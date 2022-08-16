@@ -7,7 +7,7 @@ Skills:  REACT / JS / HTML / CSS / PYTHON / FLUX / SQLAlquemy / Heroku / Figma /
 
 - 🔭 I’m currently working on an app that connects dogs to dog walkers locally. 
 - 🌱 I’m currently learning more about Python and it's components. 
-- 👯 I’m looking to collaborate on apps that help people have better and day-to-day experiences. 
+- 👯 I’m looking to collaborate on apps that help people have better day-to-day experiences. 
 - 📫 How to reach me: linkedin.com/etolopez / instagram.com/lightsaint / twitter.com/etohacearte 
 - ⚡ Fun fact: No one loves coffee more than I do. 
 
