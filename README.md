@@ -1,7 +1,7 @@
 ### Hi there 👋, you can call me Eto (Eh-tou)
 #### I'm a Fullstack Webdev!
 
-![Black Modern Blogger YouTube Channel Art (1)](https://user-images.githubusercontent.com/83386931/184984116-9420c42c-d3fb-4d2c-a210-2c55874b2bf7.png)
+![Black Modern Blogger YouTube Channel Art (2)](https://user-images.githubusercontent.com/83386931/185032662-3cbe7d18-93f9-4d57-b683-c60a94c5b84c.png)
 
 Skills:  REACT / JS / HTML / CSS / PYTHON / FLUX / SQLAlquemy / Heroku / Figma / Adobe Creative Suite / Web3 / Making Quality coffee
 ------------------------------------------------------
