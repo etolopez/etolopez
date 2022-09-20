@@ -3,7 +3,7 @@
 
 ![Black Modern Blogger YouTube Channel Art (2)](https://user-images.githubusercontent.com/83386931/185032662-3cbe7d18-93f9-4d57-b683-c60a94c5b84c.png)
 
-Skills:  REACT / JS / HTML / CSS / PYTHON / FLUX / SQLAlquemy / Heroku / Figma / Adobe Creative Suite / Web3 / Making Quality coffee
+Skills:  REACT / JS / HTML / CSS / Bootstrap / Tailwind / PYTHON / FLUX / SQLAlquemy / Heroku / Figma / Adobe Creative Suite / Web3 / Making Quality coffee
 ------------------------------------------------------
 
 Working: Freelance developer for Miami Dale College cleaning up code with Bootstrap and recreating webpages to be responsive and animated. Working with: Javascript/HTML/CSS 
