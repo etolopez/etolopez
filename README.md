@@ -6,9 +6,7 @@
 Skills:  REACT / JS / HTML / CSS / Bootstrap / Tailwind / PYTHON / FLUX / SQLAlquemy / Heroku / Figma / Adobe Creative Suite / Web3 / Making Quality coffee
 ------------------------------------------------------
 
-Working: Freelance developer for Miami Dale College cleaning up code with Bootstrap and recreating webpages to be responsive and animated. Working with: Javascript/HTML/CSS 
-
-Collaborating with: <a href= "https://github.com/ramses-code"> @ramses-code</a> and <a href="https://github.com/alejandromanco">@alejandromanco </a> on building a web app that will allow pet owners to hire reliable and pet-friendly people to walk and take care of their dogs while allowing people who love dogs to earn an extra income. We are working with HTML5 | CSS3 | Bootstrap | JavaScript | React | Python | Flask | SQLAlquemy | PostgreSQL | Git | Trello | Figma
+Working: Freelance developer at 4Geeks Academy and MDC College cleaning up code, fixing bugs and implementing new features and components, also recreating webpages to be responsive and animated. Working with: Javascript/HTML/CSS/React/Material UI/Bootstrap
 
 <code><a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>
 <code><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code>
@@ -22,7 +20,7 @@ Collaborating with: <a href= "https://github.com/ramses-code"> @ramses-code</a> 
 
 ------------------------------------------------------
 
-- 🔭 I’m currently working on an app that connects dogs to dog walkers locally. 
+- 🔭 I’m currently working as a freelance Front End Developer at 4GeeksAcademy
 - 🌱 I’m currently learning more about Python and it's components. 
 - 👯 I’m looking to collaborate on apps that help people have better day-to-day experiences. 
 - ⚡ Fun fact: No one loves coffee more than I do. 
